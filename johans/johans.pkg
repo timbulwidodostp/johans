@@ -1,4 +1,8 @@
-D 'ncointtest': Non-cointegration test between two time series in the frequency domain, as in Souza et al (2018) Use ncointtest With STATA 19
+D 'johans': Johansen's maximum likelihood cointegration rank test Use johans With STATA 19
 D
-F ncointtest.ado
-F ncointtest.sthlp
+F johans.ado
+F johans.hlp
+F lrjtest.ado
+F lrjtest.hlp
+F wjtest.ado
+F wjtest.hlp

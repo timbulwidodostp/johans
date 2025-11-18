@@ -2,4 +2,4 @@
 1
 2
 3
-p ncointtest Non-cointegration test between two time series in the frequency domain, as in Souza et al (2018) Use ncointtest With STATA 19
+p johans Johansen's maximum likelihood cointegration rank test Use johans With STATA 19

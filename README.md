@@ -1,6 +1,8 @@
 # johans
 Johansen's maximum likelihood cointegration rank test Use johans With STATA 19
 
+https://www.youtube.com/watch?v=8UQKuYg84Yo
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
